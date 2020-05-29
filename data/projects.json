@@ -1,0 +1,66 @@
+[
+  {
+    "title": "css grid exapmle",
+    "image": "./images/website1.png",
+    "description": "this website example is build with CSS Grid and that was training for me on css grid and how to use it in design websites.",
+    "live": "https://cosmo-junkie.netlify.app/",
+    "git": "https://github.com/deviengeorge/Cosmo-Junkie",
+    "skills": ["Css Grid", "html"]
+  },
+  {
+    "title": "BoilerPlate Graphql, Apollo, React",
+    "image": "./images/boilerplate.png",
+    "description": "This BoilerPlate for those how want to build React Apps with GraphQL, Apollo without worry about packages that need to be installed.",
+    "live": null,
+    "git": "https://github.com/deviengeorge/BoilerPlate-GraphQl-Apollo-React",
+    "skills": ["React", "GraphQL", "Apollo"]
+  },
+  {
+    "title": "React Advice App",
+    "image": "./images/website2.png",
+    "description": "this website is fetching random advice from online API and display it.",
+    "live": "https://advice-app-devien-george.netlify.app/",
+    "git": "https://github.com/deviengeorge/Advice-React-App",
+    "skills": ["React", "Axios"]
+  },
+  {
+    "title": "CSS Grid Example",
+    "image": "./images/website5.png",
+    "description": "this website example on Css Grid to create titles or windows on webpage",
+    "live": "https://css-grid-titles-example.netlify.app/",
+    "git": "https://github.com/deviengeorge/mutliple-titles",
+    "skills": ["Css Grid", "Html"]
+  },
+  {
+    "title": "React Movie IMDB",
+    "image": "./images/website4.png",
+    "description": "This website is for searching for movie on IMDB API that fetched with Axios and displayed information on the website like rating, name, descriptions and so on.",
+    "live": "https://react-movie-db-devien-george.netlify.app/",
+    "git": "https://github.com/deviengeorge/react-movie-db",
+    "skills": ["React", "Axios", "IMDB API"]
+  },
+  {
+    "title": "React Weather App",
+    "image": "./images/website6.png",
+    "description": "This website is for searching for weather on Openweathermap API that fetched with fetch function and displayed information on the website.",
+    "live": "https://weather-ract-app-devien-george.netlify.app/",
+    "git": "https://github.com/deviengeorge/weather-react-app",
+    "skills": ["React", "Fetch API", "OpenWeatherMap API"]
+  },
+  {
+    "title": "COVID-19 Tracker",
+    "image": "./images/website7.png",
+    "description": "This website is for display Deaths, Recovered, Infected with COVID-19 and the website get the information with API covid19.mathdro.id and return it to the tracker to display in chart.",
+    "live": "https://covid-19-react-app-devien.netlify.app/",
+    "git": "https://github.com/deviengeorge/COVID-19-Tracker-React",
+    "skills": ["React", "Axios", "Chartjs", "COVID-19 API"]
+  },
+  {
+    "title": "Weather react app v2",
+    "image": "./images/website8.png",
+    "description": "This website to show temperature, humidity, pressure for every city you type and the app build with react Hooks and Context API not as app V1 that used Class component",
+    "live": "https://weather-react-v2-devien.netlify.app/",
+    "git": "https://github.com/deviengeorge/weather-app-v2",
+    "skills": ["React", "React Hooks", "Axios", "OpenWeatherMap API"]
+  }
+]
