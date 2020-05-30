@@ -31,14 +31,20 @@ const skills = [
 function Skills() {
   return (
     <div id="skills" name="Skills">
-      <h2 className="heading">Skills</h2>
-      <ul>
-        {/* function to render every skill in skills array to the Dom  */}
-        {skills.map(skill => {
-          return <li key={skill}>{skill}</li>
-        })}
-        {/* end of function */}
-      </ul>
+      <div className="container">
+        <h2 className="heading">Skills</h2>
+        <div className="row">
+          <div className="col-md-12">
+            <ul>
+              {/* function to render every skill in skills array to the Dom  */}
+              {skills.map(skill => {
+                return <li key={skill}>{skill}</li>
+              })}
+              {/* end of function */}
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
   )
 }

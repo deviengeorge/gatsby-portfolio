@@ -501,10 +501,7 @@ footer {
 }
 
 #skills ul {
-  display: block;
-  margin: 0 auto;
   padding: 0;
-  max-width: 800px
 }
 
 #skills li {

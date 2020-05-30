@@ -62,5 +62,19 @@
     "live": "https://weather-react-v2-devien.netlify.app/",
     "git": "https://github.com/deviengeorge/weather-app-v2",
     "skills": ["React", "React Hooks", "Axios", "OpenWeatherMap API"]
+  },
+  {
+    "title": "Youtube Player App",
+    "image": "./images/website3.png",
+    "description": "This website to play youtube video and show random video on the side like youtube",
+    "live": "https://youtube-react-devien.netlify.app/",
+    "git": "https://github.com/deviengeorge/youtube-react",
+    "skills": [
+      "React",
+      "React Player",
+      "Axios",
+      "Youtube API",
+      "React Bootstrap"
+    ]
   }
 ]
